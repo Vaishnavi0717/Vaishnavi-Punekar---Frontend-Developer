@@ -24,8 +24,8 @@ Now you can visit the webpage at [http://localhost:3000](http://localhost:3000)
 
 ## Deployed on Vercel
 
-- [Visit deployed url](https://nishal-barman-frontend-developer-ht5f.vercel.app/)
+- [Visit deployed url]()
 
 <!-- # Quick Preview -->
 
-<!-- [Preview video](https://drive.google.com/file/d/1TZicGV80rrSTOSsq3QqFNPlc9mu0hacu/view?usp=drive_link) -->
+<!-- [Preview video]() -->
