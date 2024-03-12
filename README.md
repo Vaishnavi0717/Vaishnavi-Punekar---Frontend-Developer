@@ -1,31 +1,42 @@
-## Getting Started
+<h1 align="center">🚀 Savior</h1>
 
-Basic simple webpage coded with NextJs. I gave my best to convert the figma design to a live webpage. I added some simple animations and made it fully responsive for all devices.
+<p align="center">
+  <img src="https://www.savior.at/static/media/intro_samurai.d3b125439338fb59e30e.png" alt="Project Logo" width="300" height="300">
+</p>
 
-## Run the development server
+<p align="center">
+  <b>This project involves implementing a web application based on a provided Figma design. The primary objective is to build a functional and visually appealing application using React and other relevant libraries. The assignment also includes integrating wallet connectivity functionality using the WalletConnect tool.</b>
+</p>
 
-Just copy and paste the below commands going into the root directly
+<br>
 
-```bash
-npm install
-npm run dev
-```
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#features">Features</a> •
+  <a href="#demo">Demo</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a>
+</p>
 
-Now you can visit the webpage at [http://localhost:3000](http://localhost:3000)
+---
 
-## Tools & Technologies used
+## 📚 About
 
-- NextJS
-- Tailwindcss
 
-## Figma template/design
 
-- [Visit Figma Template](<https://www.figma.com/file/LrhXP4NJHk22MrdyrgGUQ7/saviour-Assignment-(Copy)?type=design&node-id=125-1426&mode=design&t=USfagKdbz4ClZVPn-0>)
+## ✨ Features
 
-## Deployed on Vercel
+-
+- 
 
-- [Visit deployed url]()
+## 🎥 Demo
 
-<!-- # Quick Preview -->
 
-<!-- [Preview video]() -->
+
+## 🚀 Installation
+
+1. Clone this repository:
+   ```bash
+   git clone 
