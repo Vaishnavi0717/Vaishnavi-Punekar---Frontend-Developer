@@ -53,4 +53,4 @@ This project aims to build a visually stunning web application based on a provid
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/Vaishnavi0717/Vaishnavi-Punekar---Frontend-Developer.git
