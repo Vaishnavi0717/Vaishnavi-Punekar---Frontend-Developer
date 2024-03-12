@@ -41,7 +41,7 @@ This project aims to build a visually stunning web application based on a provid
 - ***Animation Enhancement***: Engaging animations and transitions for enhanced interactivity.
 - ***Clean Codebase***: Modular, maintainable code adhering to best practices.
 - ***Performance Optimization***: Fast loading times and smooth rendering for improved performance.
-- ***Accessibility**: Inclusive design ensuring usability for all users.
+- ***Accessibility***: Inclusive design ensuring usability for all users.
 - ***Documentation***: Comprehensive guides for installation, usage, and contribution.
 - ***Community Engagement***: Open-source collaboration fostering a vibrant developer community.
   
