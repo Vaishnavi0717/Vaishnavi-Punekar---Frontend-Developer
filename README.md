@@ -47,10 +47,11 @@ This project aims to build a visually stunning web application based on a provid
   
 ## 🎥 Demo
 
+Check out the demo of project [Here](https://drive.google.com/file/d/1x1ngtfO7_FEYvxKHjS9VZmWN8dGv1Tj0/view?usp=sharing)
 
 ## 🚀 Deployed link
 
-Check out the deployed version of our project [Here](https://savior-app.vercel.app/)
+Check out the deployed version of project [Here](https://savior-app.vercel.app/)
 
 
 ## 💻 Tools & Technologies used
