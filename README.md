@@ -24,6 +24,8 @@
 
 ## 📚 About
 
+This project aims to build a visually stunning web application based on a provided Figma design. We're integrating wallet connectivity functionality for seamless user transactions.
+
 ### Figma Design
 
 1. **Access and Review:** Review the provided Figma design [here](https://www.figma.com/file/W7FsWqSHJWloYSLv94eyGJ/saviour-Assignment?type=design&node-id=0-1&mode=design) to understand the layout, styling, components, interactions, and animations.
@@ -33,8 +35,16 @@
 ## ✨ Features
 
 - ***Immersive User Experience***: Captivating and intuitive interface for engaging user interaction.
-- 
-
+- ***Figma Design Integration***: Seamless translation of Figma design into functional web application.
+- ***Wallet Connectivity***: Easy connection of wallets using WalletConnect tool for secure transactions.
+- ***Responsive Design***: Optimal viewing across devices with responsive layout.
+- ***Animation Enhancement***: Engaging animations and transitions for enhanced interactivity.
+- ***Clean Codebase***: Modular, maintainable code adhering to best practices.
+- ***Performance Optimization***: Fast loading times and smooth rendering for improved performance.
+- ***Accessibility**: Inclusive design ensuring usability for all users.
+- ***Documentation***: Comprehensive guides for installation, usage, and contribution.
+- ***Community Engagement***: Open-source collaboration fostering a vibrant developer community.
+  
 ## 🎥 Demo
 
 
