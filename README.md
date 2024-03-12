@@ -48,6 +48,21 @@ This project aims to build a visually stunning web application based on a provid
 ## 🎥 Demo
 
 
+## 🚀 Deployed link
+
+Check out the deployed version of our project [Here](https://savior-app.vercel.app/)
+
+
+## 💻 Tools & Technologies used
+
+- NextJS
+- Tailwindcss
+
+
+ ## ✨ Figma template/design
+
+- [Visit Figma Template](<https://www.figma.com/file/LrhXP4NJHk22MrdyrgGUQ7/saviour-Assignment-(Copy)?type=design&node-id=125-1426&mode=design&t=USfagKdbz4ClZVPn-0>) 
+
 
 ## 🚀 Installation
 
