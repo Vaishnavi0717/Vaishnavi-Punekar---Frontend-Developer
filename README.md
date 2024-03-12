@@ -24,11 +24,15 @@
 
 ## 📚 About
 
+### Figma Design
+
+1. **Access and Review:** Review the provided Figma design [here](https://www.figma.com/file/W7FsWqSHJWloYSLv94eyGJ/saviour-Assignment?type=design&node-id=0-1&mode=design) to understand the layout, styling, components, interactions, and animations.
+2. **Wallet Connectivity:** Implement the functionality to allow users to connect their wallet to the website using the WalletConnect tool.
 
 
 ## ✨ Features
 
--
+- ***Immersive User Experience***: Captivating and intuitive interface for engaging user interaction.
 - 
 
 ## 🎥 Demo
