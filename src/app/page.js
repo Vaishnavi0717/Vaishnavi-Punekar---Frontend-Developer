@@ -9,7 +9,7 @@ import UpperSection from "../components/UpperSection";
 
 export default function Home() {
   return (
-    <main className="relative overflow-x-hidden">
+    <main className=" overflow-x-hidden relative">
       <NavbarSection />
       <UpperSection/>
       <IntroductionSection/>
