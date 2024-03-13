@@ -15,7 +15,7 @@ function RoadMapItem({ title, description, imageUrl }) {
         background: `url(${imageUrl})`,
         ...zoomItemStyle,
       }}
-      className={`w-[237.06px] h-[349px] bg-cover bg-center bg-no-repeat border-[#ED0137] border-[1px] rounded-[13.17px] max-[701px]:zoomout max-[375px]:zoomin hover:scale-110 transform-gpu`}
+      className={`w-[237.06px] h-[349px] bg-cover bg-center bg-no-repeat border-[#ED0137] border-[1px] rounded-[13.17px] max-[701px]:zoomout max-[375px]:zoomin hover:scale-110 transform-gpu overflow-x-hidden`}
     >
       <div className="h-[100%] w-fill bg-gradient-to-t from-[rgb(32,4,23)] to-[transparent] flex flex-col items-center justify-end rounded-[13.17px]">
         <div className="p-[2.3rem] flex flex-col gap-[1.5rem] rounded-[13.17px]">

@@ -3,7 +3,7 @@ import React from "react";
 
 function IntroductionSection() {
   return (
-    <div className="flex items-center justify-around p-[0_13%] max-[1285px]:flex-col-reverse max-[1285px]:p-[6rem_10px] bg-[#0B0A0B] w-[100%] ">
+    <div className="flex items-center justify-around p-[0_13%] max-[1285px]:flex-col-reverse max-[1285px]:p-[6rem_10px] bg-[#0B0A0B] w-[100%] overflow-x-hidden">
       <div className="flex flex-col justify-center items-start max-[1285px]:items-center gap-[2rem] basis-1/2 p-[3%_0] max-[1285px]:p-0">
         <p className="font-shojumaru font-bold text-[4.4rem] text-samurai-red ">
           Introduction

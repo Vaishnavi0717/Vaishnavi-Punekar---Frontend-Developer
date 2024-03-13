@@ -4,7 +4,7 @@ import WalletConnect from "./WalletConnect";
 
 function IDOSection() {
   return (
-    <div className="bg-black w-[100%] h-fit flex flex-col items-center text-white">
+    <div className="bg-black w-[100%] h-fit flex flex-col items-center text-white overflow-x-hidden">
       <div className="bg-some-shamurai w-[100%] flex flex-col items-center p-[6rem_13%] max-[600px]:p-[6rem_10px]">
         <div className="flex flex-col items-center w-[100%] gap-[7rem]">
           <h3 className="text-samurai-red font-shojumaru text-[4.092rem] text-center">

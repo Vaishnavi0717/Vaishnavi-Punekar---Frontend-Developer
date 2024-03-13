@@ -3,7 +3,7 @@ import React from "react";
 
 function FooterSection() {
   return (
-    <div className="flex flex-col items-center justify-center gap-[3.6rem] p-[4rem] max-[600px]:p-[5rem_13px] bg-gradient-to-t from-[#120000] to-[#020505]">
+    <div className="flex flex-col items-center justify-center gap-[3.6rem] p-[4rem] max-[600px]:p-[5rem_13px] bg-gradient-to-t from-[#120000] to-[#020505] overflow-x-hidden">
       <div className="animate-zoom">
       <Image 
         width={200}

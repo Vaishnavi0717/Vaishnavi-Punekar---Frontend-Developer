@@ -3,7 +3,7 @@ import React from "react";
 
 function TokenSections() {
   return (
-    <div className="bg-black w-[100%] h-fit flex flex-col items-center text-white">
+    <div className="bg-black w-[100%] h-fit flex flex-col items-center text-white overflow-x-hidden">
       <div className="bg-tokenomic-bg bg-no-repeat w-[100%] flex flex-col items-center p-[6rem_13%] max-[600px]:p-[6rem_10px]">
         <div className="flex flex-col items-center w-[100%] gap-[7rem] max-[600px]:gap-[2rem]">
           <h3 className="text-samurai-red font-shojumaru text-[4.092rem]">

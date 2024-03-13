@@ -3,7 +3,7 @@ import React from "react";
 
 function FaqSection() {
   return (
-    <div className="bg-[#0B0A0B] w-[100%] h-fit flex flex-col items-center text-white">
+    <div className="bg-[#0B0A0B] w-[100%] h-fit flex flex-col items-center text-white overflow-x-hidden">
       <div className="bg-[#0B0A0B] w-[100%] flex flex-col items-center p-[6rem_13%] max-[600px]:p-[6rem_10px]">
         <div className="flex flex-col justify-center items-center w-[100%] gap-[7rem]">
           <div className="flex items-start justify-center gap-[9rem]  max-[600px]:gap-[1rem] w-[100%] h-[100%] max-[1285px]:flex-col max-[1285px]:items-center">
